@@ -1,3 +1,4 @@
+print("Program Started")
 from database import create_table
 from finance import add_transaction, view_transactions
 
